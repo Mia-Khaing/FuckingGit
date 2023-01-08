@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 update from master >> first line
 update from branch-A >> second line
 
 
+=======
+update from branch-A >> second line
+>>>>>>> 642f6ef (add second line in demo)
