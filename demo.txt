@@ -1,1 +1,4 @@
 update from master >> first line
+update from branch-A >> second line
+
+
